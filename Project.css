@@ -1,0 +1,235 @@
+@media (min-width: 700px){
+    #fourth figure img{
+        width: -10%;
+        box-sizing: border-box;
+        padding-left: 0%;
+    }
+
+    #fourth figure{
+        padding-left: 10%;
+    }
+
+
+    #fourth figcaption{
+        text-align: unset;
+        
+    }
+    
+
+    .up, .down{
+        float:left ;
+    }
+
+    .right{
+        display: inline;
+    }
+
+    /*SECTION FIVE*/
+   .hearts{
+        display: flex;
+    }
+
+    #fifth h2{
+        text-align: center;
+    }
+
+    /*FOOTER BEGINS*/
+    .enter{
+        float: left;
+    }
+
+    .wella{
+        float: right;
+        margin-top: 50px;
+    }
+
+    .final{
+        padding-left: 50px;
+        display: inline;
+        float: right;
+    }
+
+    #third .over{
+        margin-right: 6%;
+    }
+}
+
+body{
+    margin-left: 10px;
+}
+
+header img,p,button{
+    display: inline;
+}
+
+header a{
+    text-decoration: none;
+    color: black;
+}
+
+header img{
+    width: 20%;
+}
+
+header .h{
+    margin-left:5% ;
+    margin-right:5%;
+}
+
+header .l{
+    margin-left:5% ;
+    margin-right:7%;
+}
+
+header .fstbtn{
+    margin-right: 3px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+    border-width: 0.1;
+}
+
+header .scndbtn{
+    margin-left:3px;
+    margin-top: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: black;
+    color: white;
+}
+
+/* SECTION BEGINS*/
+#container img{
+    width: 46%;
+    float: right;
+    margin-right: 10%;
+}
+
+#container h1{
+    padding-top: 15%;
+}
+
+
+.thrdbtn{
+    margin-top: 10px;
+    margin-bottom: 30%;
+    padding: 10px 20px 10px 20px;
+    background-color: black;
+    color: white;
+}
+
+/*2ND SECTION BEGINS*/
+#contain p{
+    display: block;
+    text-align: center;
+    color: grey;
+}
+
+#contain img{
+    display: inline;
+    width: 15%;
+    margin: 0px 3.5% 4% 0.5%;
+}
+
+/*3RD SECTION BEGINS*/
+#third h3{
+    text-align: center;
+}
+
+#third .sub{
+    border: 2% solid black;
+    padding: 0px 4% 0px 4%;
+    background-color:black;
+    color: white;
+    margin-left: 3%;
+    margin-right: 3%;
+    display: block;
+
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.sub img{
+    width: 25%;
+}
+
+.all{
+    padding-bottom: 45px;
+}
+
+.over{
+    float: right;
+    padding-right: 130px;
+}
+
+.nxt{
+    float: right;
+}
+
+.ove{
+    float: right;
+    padding-left: 10%;
+}
+
+/*FOURTH SECTION BEGINS*/
+#fourth h2{
+    text-align: center;
+}
+
+#fourth img{
+    padding-left: 30%;
+}
+
+figcaption{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+/*FIFTH SECTION BEGINS*/
+#fifth h2{
+    text-align:center;
+}
+
+#fifth h1{
+    border: 2px ;
+    width:fit-content;
+    border-radius: 50%;
+    color: white;
+    background-color: red;
+    font-size: xx-large;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 4px;
+    margin-left: 45%;
+}
+
+#fifth .life, .house, .best{
+    border: 2px solid;
+    background-color: black;
+    color: white;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.was, .were, .focus{
+    text-align: center;
+    padding:0 50px 20px 50px;
+}
+
+.mildred, .andrew, .christabel{
+    text-align: center;
+}
+
+
+/*FOOTER BEGINS*/
+footer{
+    margin-top: 50px;
+    font-weight: bold;
+}
